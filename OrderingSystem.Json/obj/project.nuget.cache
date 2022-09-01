@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rb5e1Lckott9a0V2rdA76ZkXBB+9XQn5/mWpisQj0CRw80Ubp+YbOhOGbktTscx+iHHI2hb9FJJOB+PrxWDtw==",
+  "success": true,
+  "projectFilePath": "C:\\# Work\\OrderingSystem\\OrderingSystem.Json\\OrderingSystem.Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

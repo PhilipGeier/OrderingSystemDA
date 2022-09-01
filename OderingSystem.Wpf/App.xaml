@@ -1,0 +1,42 @@
+﻿<Application x:Class="OderingSystem.Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:OderingSystem.Wpf"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Grid">
+            <Setter Property="ShowGridLines" Value="False"/>
+        </Style>
+
+        <Style TargetType="Border" x:Key="GridBorderRight">
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="0,0,2,0"/>
+        </Style>
+
+        <Style TargetType="Border" x:Key="GridBorderTop">
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="0,2,0,0"/>
+        </Style>
+
+        <Style TargetType="Border" x:Key="GridBorderBottom">
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="0,0,0,2"/>
+        </Style>
+
+        <Style TargetType="Border" x:Key="GridBorderLeft">
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="2,0,0,0"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="RoundedButton">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+    </Application.Resources>
+</Application>

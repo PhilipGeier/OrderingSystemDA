@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "b8090c34-772e-4bf5-ace4-c43578ca7423",
+    "Name": "Vodka",
+    "PriceInclTax": 1.1,
+    "PriceExclTax": 1.0,
+    "Category": 1
+  },
+  {
+    "Id": "d6822a91-4319-4e5d-b9f1-a679d4e4e78a",
+    "Name": "Beer",
+    "PriceInclTax": 1.1,
+    "PriceExclTax": 1.0,
+    "Category": 2
+  },
+  {
+    "Id": "e8e6c8e5-af72-442b-84d9-dca29f70a44b",
+    "Name": "White Wine",
+    "PriceInclTax": 1.1,
+    "PriceExclTax": 1.0,
+    "Category": 3
+  }
+]

@@ -1,0 +1,12 @@
+C:\# Work\OrderingSystem\OrderingSystem.Domain\bin\Debug\net6.0\OrderingSystem.Domain.deps.json
+C:\# Work\OrderingSystem\OrderingSystem.Domain\bin\Debug\net6.0\OrderingSystem.Domain.dll
+C:\# Work\OrderingSystem\OrderingSystem.Domain\bin\Debug\net6.0\OrderingSystem.Domain.pdb
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.csproj.AssemblyReference.cache
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.AssemblyInfoInputs.cache
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.AssemblyInfo.cs
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.dll
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\refint\OrderingSystem.Domain.dll
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.pdb
+C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\ref\OrderingSystem.Domain.dll

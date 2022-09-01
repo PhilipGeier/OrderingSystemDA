@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "f8ba9ff7-f60b-447b-9f58-ec671554d390",
+    "Label": "1",
+    "CurrentItems": null,
+    "Location": 1
+  },
+  {
+    "Id": "b3377618-1e7e-493c-a287-cc6f12556893",
+    "Label": "2",
+    "CurrentItems": [
+      {
+        "Id": "056ab4de-620b-4522-a4ae-fee16971663b",
+        "Name": "Beer",
+        "PriceInclTax": 1.1,
+        "PriceExclTax": 1.0,
+        "Category": 2
+      },
+      {
+        "Id": "8b9f2c48-45a8-4135-81a1-b57e1abc3d49",
+        "Name": "Beer",
+        "PriceInclTax": 1.1,
+        "PriceExclTax": 1.0,
+        "Category": 2
+      }
+    ],
+    "Location": 0
+  }
+]
