@@ -2,24 +2,54 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="TableGraphicView.xaml.cs">
+    <Compile Update="CreateCompanyWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TableListPage.xaml.cs">
+    <Compile Update="ItemWindows\CreateItemWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TablePage.xaml.cs">
+    <Compile Update="TablePages\AddItemsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TableWindows\NewTableWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TablePages\TableLocationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TablePages\TableListPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TablePages\TablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TableWindows\TransferChoosing.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="TableGraphicView.xaml">
+    <Page Update="CreateCompanyWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TableListPage.xaml">
+    <Page Update="ItemWindows\CreateItemWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TablePage.xaml">
+    <Page Update="TablePages\AddItemsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TableWindows\NewTableWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TablePages\TableLocationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TablePages\TableListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TablePages\TablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TableWindows\TransferChoosing.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

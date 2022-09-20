@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
-
+using OderingSystem.Wpf.ItemWindows;
 
 namespace OderingSystem.Wpf
 {
@@ -27,6 +27,8 @@ namespace OderingSystem.Wpf
         public Grid mainWindowGrid;
         public Page currentPage;
 
+        private CompanyJsonLogic _companyJsonLogic;
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -36,19 +38,49 @@ namespace OderingSystem.Wpf
 
             if (main.Content == null)
             {
-                var page = new TableListPage();
+                var page = new TableListPage(this);
                 main.Content = page;
                 currentPage = page;
+            }
+
+            _companyJsonLogic = new CompanyJsonLogic();
+
+            if (_companyJsonLogic.GetCompany() == null)
+            {
+                var createCompanyWindow = new CreateCompanyWindow(this);
+                createCompanyWindow.Show();
+                createCompanyWindow.Focus();
+                IsEnabled = false;
             }
         }
 
         private void SwitchViewClick(object sender, RoutedEventArgs e)
         {
-            if (currentPage.GetType() == typeof(TableListPage))
-                main.Content = new TableGraphicView();
-            else if (currentPage.GetType() == typeof(TableGraphicView))
-                main.Content = new TableListPage();
 
+
+        }
+
+        private void ItemTransferButton_Click(object sender, RoutedEventArgs e)
+        {
+            var choosingWindow = new TransferChoosing(this);
+            choosingWindow.Show();
+        }
+
+        private void OpenNewTable_Click(object sender, RoutedEventArgs e)
+        {
+            var newTableWindow = new NewTableWindow(this);
+            newTableWindow.Show();
+        }
+
+        private void OpenNewItem_Click(object sender, RoutedEventArgs e)
+        {
+            var createItemWindow = new CreateItemWindow(this);
+            createItemWindow.Show();
+        }
+
+        private void SwtichView_Click(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new TableLocationPage(this);
         }
     }
 }

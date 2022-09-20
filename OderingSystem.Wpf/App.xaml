@@ -5,7 +5,7 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="Grid">
-            <Setter Property="ShowGridLines" Value="False"/>
+            <Setter Property="ShowGridLines" Value="True"/>
         </Style>
 
         <Style TargetType="Border" x:Key="GridBorderRight">

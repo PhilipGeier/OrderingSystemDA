@@ -55,6 +55,13 @@ public class TableJsonLogic
         table.CurrentItems.Add(itemId);
         _jsonBaseLogic.PutInFile(Filename, Tables);
     }
+
+    public void RemoveItemFromTable(string tableId, Guid itemId)
+    {
+        var table = Tables.Find(a => a.Id == tableId);
+        table.CurrentItems.Remove(itemId);
+        _jsonBaseLogic.PutInFile(Filename, Tables);
+    }
     
     public Table GetSingle(string id)
     {

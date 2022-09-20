@@ -1,0 +1,103 @@
+﻿<Page x:Class="OderingSystem.Wpf.TablePages.AddItemsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:OderingSystem.Wpf.TablePages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddItemsPage">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource GridBorderBottom}"/>
+
+        <TextBlock
+            Grid.ColumnSpan="3"
+            x:Name="Header"
+            Text="Add Items to Table"
+            FontSize="40"
+            FontWeight="Black"/>
+
+        <Button
+            x:Name="BackButton"
+            Content="X"
+            Width="50"
+            HorizontalAlignment="Right"
+            Grid.Column="2" Click="BackButton_Click"/>
+
+        <Border BorderBrush="Gray" BorderThickness="1" Grid.Row="1">
+            <StackPanel Grid.Row="1">
+                <Button x:Name="Beer" Content="Beer" Margin="2" Click="BeerButton_Click"/>
+                <Button x:Name="Wine" Content="Wine" Margin="2" Click="WineButton_Click"/>
+                <Button x:Name="Longdrinks" Content="Longdrinks" Margin="2" Click="LongdrinksButton_Click"/>
+                <Button x:Name="Shots" Content="Shots" Margin="2" Click="ShotsButton_Click"/>
+                <Button x:Name="Cocktails" Content="Cocktails" Margin="2" Click="CocktailsButton_Click"/>
+                <Button x:Name="Starters" Content="Starters" Margin="2" Click="StartersButton_Click"/>
+                <Button x:Name="MainCourse" Content="Main Course" Margin="2" Click="MainCourseButton_Click"/>
+                <Button x:Name="Dessert" Content="Desserts" Margin="2" Click="DessertButton_Click"/>
+                <Button x:Name="Specials" Content="Specials" Margin="2" Click="SpecialsButton_Click"/>
+            </StackPanel>
+        </Border>
+
+        <Border BorderBrush="Gray" BorderThickness="1" Grid.Row="1" Grid.Column="1">
+            <Grid Grid.Row="1"
+              Grid.Column="1"
+              x:Name="ItemsGrid">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Gray" BorderThickness="1" Grid.Row="1" Grid.Column="2">
+            <StackPanel Grid.Row="1"
+                    Grid.Column="2">
+
+                <TextBlock
+                Grid.ColumnSpan="3"
+                Text="Items"
+                FontSize="20"
+                FontWeight="Black"
+                Margin="5,0,0,0"/>
+
+                <StackPanel x:Name="itemStackPanel"/>
+
+            </StackPanel>
+        </Border>
+
+        <Button x:Name="ConfirmButton"
+                Width="200"
+                Height="45"
+                Content="Confirm"
+                Grid.Row="2"
+                Grid.Column="0"
+                Grid.ColumnSpan="2" Click="ConfirmButton_Click"/>
+    </Grid>
+</Page>

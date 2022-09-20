@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\# Work\OrderingSystem\OderingSystem.Wpf\App.xaml
-41814119456
+102084280013
 
-6326844214
+121556453921
 1971432325144
-MainWindow.xaml;TableGraphicView.xaml;TableListPage.xaml;TablePage.xaml;
+CreateCompanyWindow.xaml;ItemWindows\CreateItemWindow.xaml;MainWindow.xaml;TablePages\AddItemsPage.xaml;TablePages\ItemTransfer.xaml;TablePages\TableListPage.xaml;TablePages\TableLocationPage.xaml;TablePages\TablePage.xaml;TableWindows\NewTableWindow.xaml;TableWindows\TransferChoosing.xaml;
 
 False
 

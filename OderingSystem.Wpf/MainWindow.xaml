@@ -18,18 +18,29 @@
             <ColumnDefinition Width="190"/>
         </Grid.ColumnDefinitions>
 
-        <StackPanel
-            Grid.Row="1"
-            Grid.Column="1">
+        <Border BorderBrush="Gray" BorderThickness="2" Grid.Row="1" Grid.Column="1">
+            <StackPanel>
 
-            <Button x:Name="ItemTransferButton"
-                    Content="Transfer Items"/>
-            <Button x:Name="OpenNewTable"
-                    Content="New Table"/>
-            <Button x:Name="SwitchTableView"
-                    Content="Switch View" Click="SwitchViewClick"/>
-        </StackPanel>
-        
+                <Button x:Name="ItemTransferButton"
+                        Height="40"
+                        Content="Transfer Items"
+                        Click="ItemTransferButton_Click"
+                        Margin="2"/>
+                <Button x:Name="OpenNewTable"
+                        Content="New Table"
+                        Click="OpenNewTable_Click"
+                        Margin="2" Height="40"/>
+                <Button x:Name="OpenNewItem"
+                        Content="New Item"
+                        Click="OpenNewItem_Click"
+                        Margin="2" Height="40"/>
+                <Button x:Name="SwitchView"
+                        Content="Switch Table View"
+                        Click="SwtichView_Click"
+                        Margin="2" Height="40"/>
+            </StackPanel>
+        </Border>
+
         <TextBlock
             Text="Ordering-System"
             FontSize="35"
@@ -42,9 +53,12 @@
             FontSize="35"
             FontWeight="Bold"/>
 
-        <Frame 
-            x:Name="Main" 
-            NavigationUIVisibility="Hidden"
-            Grid.Row="1"/>
+        <Border BorderBrush="Gray" BorderThickness="2" Grid.Row="1">
+            <Frame 
+                x:Name="Main" 
+                NavigationUIVisibility="Hidden"
+                Grid.Row="1"/>
+        </Border>
+
     </Grid>
 </Window>

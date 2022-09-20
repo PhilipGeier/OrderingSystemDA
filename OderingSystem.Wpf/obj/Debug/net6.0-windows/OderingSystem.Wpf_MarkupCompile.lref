@@ -1,7 +1,13 @@
 ﻿
 FC:\# Work\OrderingSystem\OderingSystem.Wpf\App.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\CreateCompanyWindow.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\ItemWindows\CreateItemWindow.xaml;;
 FC:\# Work\OrderingSystem\OderingSystem.Wpf\MainWindow.xaml;;
-FC:\# Work\OrderingSystem\OderingSystem.Wpf\TableListPage.xaml;;
-FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePage.xaml;;
-FC:\# Work\OrderingSystem\OderingSystem.Wpf\TableGraphicView.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePages\AddItemsPage.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePages\ItemTransfer.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePages\TableListPage.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePages\TableLocationPage.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TablePages\TablePage.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TableWindows\NewTableWindow.xaml;;
+FC:\# Work\OrderingSystem\OderingSystem.Wpf\TableWindows\TransferChoosing.xaml;;
 
