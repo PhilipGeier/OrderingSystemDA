@@ -15,7 +15,14 @@ C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.Console.csproj.CoreCompileInputs.cache
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.Console.csproj.CopyComplete
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.Console.dll
-C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\refint\OrderingSystem.Console.dll
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.Console.pdb
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\OrderingSystem.Console.genruntimeconfig.cache
 C:\# Work\OrderingSystem\OrderingSystem.Console\obj\Debug\net6.0\ref\OrderingSystem.Console.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\ref\OrderingSystem.Console.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\PdfSharpCore.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\de\PdfSharpCore.resources.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\OrderingSystem.Services.dll
+C:\# Work\OrderingSystem\OrderingSystem.Console\bin\Debug\net6.0\OrderingSystem.Services.pdb

@@ -10,6 +10,11 @@
     <ItemGroup>
       <ProjectReference Include="..\OrderingSystem.Domain\OrderingSystem.Domain.csproj" />
       <ProjectReference Include="..\OrderingSystem.Json\OrderingSystem.Json.csproj" />
+      <ProjectReference Include="..\OrderingSystem.Services\OrderingSystem.Services.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="PdfSharpCore" Version="1.3.40" />
     </ItemGroup>
 
 </Project>

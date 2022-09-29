@@ -20,23 +20,22 @@
 
         <Border BorderBrush="Gray" BorderThickness="2" Grid.Row="1" Grid.Column="1">
             <StackPanel>
-
                 <Button x:Name="ItemTransferButton"
                         Height="40"
                         Content="Transfer Items"
                         Click="ItemTransferButton_Click"
                         Margin="2"/>
-                <Button x:Name="OpenNewTable"
-                        Content="New Table"
-                        Click="OpenNewTable_Click"
-                        Margin="2" Height="40"/>
-                <Button x:Name="OpenNewItem"
-                        Content="New Item"
-                        Click="OpenNewItem_Click"
-                        Margin="2" Height="40"/>
                 <Button x:Name="SwitchView"
                         Content="Switch Table View"
                         Click="SwtichView_Click"
+                        Margin="2" Height="40"/>
+                <Button x:Name="ShowCompanyInfo"
+                        Content="Show Company Info"
+                        Click="ShowCompanyInfo_Click"
+                        Margin="2" Height="40"/>
+                <Button x:Name="OpenManagementArea"
+                        Content="Open Management Area"
+                        Click="OpenManagementArea_Click"
                         Margin="2" Height="40"/>
             </StackPanel>
         </Border>
@@ -59,6 +58,5 @@
                 NavigationUIVisibility="Hidden"
                 Grid.Row="1"/>
         </Border>
-
     </Grid>
 </Window>

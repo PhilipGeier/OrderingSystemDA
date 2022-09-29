@@ -14,7 +14,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
-using OderingSystem.Wpf.ItemWindows;
 
 namespace OderingSystem.Wpf
 {
@@ -24,8 +23,6 @@ namespace OderingSystem.Wpf
     public partial class MainWindow : Window
     {
         public Frame main;
-        public Grid mainWindowGrid;
-        public Page currentPage;
 
         private CompanyJsonLogic _companyJsonLogic;
         
@@ -34,13 +31,11 @@ namespace OderingSystem.Wpf
             InitializeComponent();
 
             main = Main;
-            mainWindowGrid = MainWindowGrid;
 
             if (main.Content == null)
             {
                 var page = new TableListPage(this);
                 main.Content = page;
-                currentPage = page;
             }
 
             _companyJsonLogic = new CompanyJsonLogic();
@@ -54,33 +49,28 @@ namespace OderingSystem.Wpf
             }
         }
 
-        private void SwitchViewClick(object sender, RoutedEventArgs e)
-        {
-
-
-        }
-
         private void ItemTransferButton_Click(object sender, RoutedEventArgs e)
         {
             var choosingWindow = new TransferChoosing(this);
             choosingWindow.Show();
         }
 
-        private void OpenNewTable_Click(object sender, RoutedEventArgs e)
-        {
-            var newTableWindow = new NewTableWindow(this);
-            newTableWindow.Show();
-        }
-
-        private void OpenNewItem_Click(object sender, RoutedEventArgs e)
-        {
-            var createItemWindow = new CreateItemWindow(this);
-            createItemWindow.Show();
-        }
-
         private void SwtichView_Click(object sender, RoutedEventArgs e)
         {
             Main.Content = new TableLocationPage(this);
+        }
+
+        private void ShowCompanyInfo_Click(object sender, RoutedEventArgs e)
+        {
+            var companyInfoWindow = new CompanyInfoWindow(this);
+            companyInfoWindow.Show();
+        }
+
+        private void OpenManagementArea_Click(object sender, RoutedEventArgs e)
+        {
+            var managementAreaWindow = new ManagementAreaWindow();
+            managementAreaWindow.Show();
+            Close();
         }
     }
 }

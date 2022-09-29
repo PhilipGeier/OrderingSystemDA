@@ -11,6 +11,52 @@
           "lib/net6.0/Newtonsoft.Json.dll": {}
         }
       },
+      "PdfSharpCore/1.3.40": {
+        "type": "package",
+        "dependencies": {
+          "SharpZipLib": "1.3.3",
+          "SixLabors.Fonts": "1.0.0-beta17",
+          "SixLabors.ImageSharp": "1.0.4"
+        },
+        "compile": {
+          "lib/net6.0/PdfSharpCore.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/PdfSharpCore.dll": {}
+        },
+        "resource": {
+          "lib/net6.0/de/PdfSharpCore.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "SharpZipLib/1.3.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/ICSharpCode.SharpZipLib.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/ICSharpCode.SharpZipLib.dll": {}
+        }
+      },
+      "SixLabors.Fonts/1.0.0-beta17": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/SixLabors.Fonts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.Fonts.dll": {}
+        }
+      },
+      "SixLabors.ImageSharp/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {}
+        }
+      },
       "OrderingSystem.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -33,6 +79,21 @@
         },
         "runtime": {
           "bin/placeholder/OrderingSystem.Json.dll": {}
+        }
+      },
+      "OrderingSystem.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OrderingSystem.Domain": "1.0.0",
+          "OrderingSystem.Json": "1.0.0",
+          "PdfSharpCore": "1.3.40"
+        },
+        "compile": {
+          "bin/placeholder/OrderingSystem.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderingSystem.Services.dll": {}
         }
       }
     }
@@ -68,6 +129,89 @@
         "packageIcon.png"
       ]
     },
+    "PdfSharpCore/1.3.40": {
+      "sha512": "2uukqy4AdWmMeoUvKW3ixBUrIDFtU6hvm3l6TP/CwaG14Ige0sWwCbucXuuIJ2I3z5jU6j+d4XYhhww/BZcX6Q==",
+      "type": "package",
+      "path": "pdfsharpcore/1.3.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net5.0/PdfSharpCore.dll",
+        "lib/net5.0/de/PdfSharpCore.resources.dll",
+        "lib/net6.0/PdfSharpCore.dll",
+        "lib/net6.0/de/PdfSharpCore.resources.dll",
+        "lib/netcoreapp3.1/PdfSharpCore.dll",
+        "lib/netcoreapp3.1/de/PdfSharpCore.resources.dll",
+        "lib/netstandard2.0/PdfSharpCore.dll",
+        "lib/netstandard2.0/de/PdfSharpCore.resources.dll",
+        "pdfsharpcore.1.3.40.nupkg.sha512",
+        "pdfsharpcore.nuspec"
+      ]
+    },
+    "SharpZipLib/1.3.3": {
+      "sha512": "N8+hwhsKZm25tDJfWpBSW7EGhH/R7EMuiX+KJ4C4u+fCWVc1lJ5zg1u3S1RPPVYgTqhx/C3hxrqUpi6RwK5+Tg==",
+      "type": "package",
+      "path": "sharpziplib/1.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/sharpziplib-nuget-256x256.png",
+        "lib/net45/ICSharpCode.SharpZipLib.dll",
+        "lib/net45/ICSharpCode.SharpZipLib.pdb",
+        "lib/net45/ICSharpCode.SharpZipLib.xml",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.pdb",
+        "lib/netstandard2.0/ICSharpCode.SharpZipLib.xml",
+        "lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "lib/netstandard2.1/ICSharpCode.SharpZipLib.pdb",
+        "lib/netstandard2.1/ICSharpCode.SharpZipLib.xml",
+        "sharpziplib.1.3.3.nupkg.sha512",
+        "sharpziplib.nuspec"
+      ]
+    },
+    "SixLabors.Fonts/1.0.0-beta17": {
+      "sha512": "qubgVovAoSR7vyv9tJ68gSzRIPWz7HBjTM9rwAaLjpcJ6T50arnX+GHAZcC0r2mVagyRMknCNda3DGoe8StUUQ==",
+      "type": "package",
+      "path": "sixlabors.fonts/1.0.0-beta17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/SixLabors.Fonts.dll",
+        "lib/netcoreapp3.1/SixLabors.Fonts.xml",
+        "lib/netstandard2.0/SixLabors.Fonts.dll",
+        "lib/netstandard2.0/SixLabors.Fonts.xml",
+        "lib/netstandard2.1/SixLabors.Fonts.dll",
+        "lib/netstandard2.1/SixLabors.Fonts.xml",
+        "sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+        "sixlabors.fonts.128.png",
+        "sixlabors.fonts.nuspec"
+      ]
+    },
+    "SixLabors.ImageSharp/1.0.4": {
+      "sha512": "H2rPiEr2ddBOltOuqRYhpLBAsQXDAhbzMMhhuksnBG2oefup1MXMchALe7yYkKJksNbtxbZHKeM6dn/68I75qw==",
+      "type": "package",
+      "path": "sixlabors.imagesharp/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net472/SixLabors.ImageSharp.dll",
+        "lib/net472/SixLabors.ImageSharp.xml",
+        "lib/netcoreapp2.1/SixLabors.ImageSharp.dll",
+        "lib/netcoreapp2.1/SixLabors.ImageSharp.xml",
+        "lib/netcoreapp3.1/SixLabors.ImageSharp.dll",
+        "lib/netcoreapp3.1/SixLabors.ImageSharp.xml",
+        "lib/netstandard1.3/SixLabors.ImageSharp.dll",
+        "lib/netstandard1.3/SixLabors.ImageSharp.xml",
+        "lib/netstandard2.0/SixLabors.ImageSharp.dll",
+        "lib/netstandard2.0/SixLabors.ImageSharp.xml",
+        "lib/netstandard2.1/SixLabors.ImageSharp.dll",
+        "lib/netstandard2.1/SixLabors.ImageSharp.xml",
+        "sixlabors.imagesharp.1.0.4.nupkg.sha512",
+        "sixlabors.imagesharp.128.png",
+        "sixlabors.imagesharp.nuspec"
+      ]
+    },
     "OrderingSystem.Domain/1.0.0": {
       "type": "project",
       "path": "../OrderingSystem.Domain/OrderingSystem.Domain.csproj",
@@ -77,12 +221,19 @@
       "type": "project",
       "path": "../OrderingSystem.Json/OrderingSystem.Json.csproj",
       "msbuildProject": "../OrderingSystem.Json/OrderingSystem.Json.csproj"
+    },
+    "OrderingSystem.Services/1.0.0": {
+      "type": "project",
+      "path": "../OrderingSystem.Services/OrderingSystem.Services.csproj",
+      "msbuildProject": "../OrderingSystem.Services/OrderingSystem.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "OrderingSystem.Domain >= 1.0.0",
-      "OrderingSystem.Json >= 1.0.0"
+      "OrderingSystem.Json >= 1.0.0",
+      "OrderingSystem.Services >= 1.0.0",
+      "PdfSharpCore >= 1.3.40"
     ]
   },
   "packageFolders": {
@@ -123,6 +274,9 @@
             },
             "C:\\# Work\\OrderingSystem\\OrderingSystem.Json\\OrderingSystem.Json.csproj": {
               "projectPath": "C:\\# Work\\OrderingSystem\\OrderingSystem.Json\\OrderingSystem.Json.csproj"
+            },
+            "C:\\# Work\\OrderingSystem\\OrderingSystem.Services\\OrderingSystem.Services.csproj": {
+              "projectPath": "C:\\# Work\\OrderingSystem\\OrderingSystem.Services\\OrderingSystem.Services.csproj"
             }
           }
         }
@@ -136,6 +290,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "PdfSharpCore": {
+            "target": "Package",
+            "version": "[1.3.40, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

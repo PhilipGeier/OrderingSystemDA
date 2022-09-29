@@ -12,4 +12,4 @@ C:\# Work\OrderingSystem\OrderingSystem.Json\obj\Debug\net6.0\OrderingSystem.Jso
 C:\# Work\OrderingSystem\OrderingSystem.Json\obj\Debug\net6.0\OrderingSystem.Json.dll
 C:\# Work\OrderingSystem\OrderingSystem.Json\obj\Debug\net6.0\OrderingSystem.Json.pdb
 C:\# Work\OrderingSystem\OrderingSystem.Json\obj\Debug\net6.0\ref\OrderingSystem.Json.dll
-C:\# Work\OrderingSystem\OrderingSystem.Json\obj\Debug\net6.0\refint\OrderingSystem.Json.dll
+C:\# Work\OrderingSystem\OrderingSystem.Json\bin\Debug\net6.0\ref\OrderingSystem.Json.dll

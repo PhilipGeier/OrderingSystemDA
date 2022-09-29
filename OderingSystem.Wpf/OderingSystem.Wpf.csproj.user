@@ -2,16 +2,37 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="CompanyInfoWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="CreateCompanyWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ItemWindows\CreateItemWindow.xaml.cs">
+    <Compile Update="ManagementAreaPages\ItemPages\CreateItemPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\ItemPages\EditItemPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\ItemPages\RemoveItemPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\ManagementAreaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\TablePages\EditTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\TablePages\RemoveTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaPages\TablePages\CreateTablePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManagementAreaWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="TablePages\AddItemsPage.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="TableWindows\NewTableWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="TablePages\TableLocationPage.xaml.cs">
@@ -28,16 +49,37 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CompanyInfoWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="CreateCompanyWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ItemWindows\CreateItemWindow.xaml">
+    <Page Update="ManagementAreaPages\ItemPages\CreateItemPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\ItemPages\EditItemPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\ItemPages\RemoveItemPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\ManagementAreaPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\TablePages\EditTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\TablePages\RemoveTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaPages\TablePages\CreateTablePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManagementAreaWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="TablePages\AddItemsPage.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="TableWindows\NewTableWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="TablePages\TableLocationPage.xaml">

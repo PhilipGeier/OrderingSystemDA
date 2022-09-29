@@ -9,4 +9,4 @@ C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.D
 C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.dll
 C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\OrderingSystem.Domain.pdb
 C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\ref\OrderingSystem.Domain.dll
-C:\# Work\OrderingSystem\OrderingSystem.Domain\obj\Debug\net6.0\refint\OrderingSystem.Domain.dll
+C:\# Work\OrderingSystem\OrderingSystem.Domain\bin\Debug\net6.0\ref\OrderingSystem.Domain.dll

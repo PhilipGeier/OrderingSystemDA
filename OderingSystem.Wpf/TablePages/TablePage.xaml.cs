@@ -16,6 +16,7 @@ using OrderingSystem.Domain;
 using OrderingSystem.Json;
 using OderingSystem.Wpf.TablePages;
 using OrderingSystem.Domain.Enums;
+using OrderingSystem.Services;
 
 namespace OderingSystem.Wpf
 {
@@ -321,7 +322,7 @@ namespace OderingSystem.Wpf
                     _tableJsonLogic.RemoveItemFromTable(_table.Id, item.Key);
                 }
 
-                _billJsonLogic.CreateBill(new Bill()
+                var bill = new Bill()
                 {
                     BillNumber = _billJsonLogic.Bills.Count + 1,
                     Company = _companyJsonLogic.GetCompany(),
@@ -331,8 +332,10 @@ namespace OderingSystem.Wpf
                     SortedItems = _rightGroupedItems,
                     Sum = GetSum(),
                     SumExclTax = GetSumExclTax()
-                });
+                };
 
+                _billJsonLogic.CreateBill(bill);
+                PdfService.CreatePdfBill(bill);
                 _rightGroupedItems.Clear();
                 NavigationService.Content = new TableListPage(_mainWindow);
             }
