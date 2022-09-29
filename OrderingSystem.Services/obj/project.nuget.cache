@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUBbJyoDA5eIYaHldmV9QYimbX8CTbVN8yLm7Vqa3r+K7MvXdtqP0br1e/5AXlNS3JrzoRrrfwaXMJgoauqnEg==",
+  "success": true,
+  "projectFilePath": "C:\\# Work\\OrderingSystem\\OrderingSystem.Services\\OrderingSystem.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\pdfsharpcore\\1.3.40\\pdfsharpcore.1.3.40.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

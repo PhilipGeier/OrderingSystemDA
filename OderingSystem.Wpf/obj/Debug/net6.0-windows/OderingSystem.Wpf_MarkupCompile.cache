@@ -1,0 +1,20 @@
+﻿OderingSystem.Wpf
+
+
+winexe
+C#
+.cs
+C:\# Work\OrderingSystem\OderingSystem.Wpf\obj\Debug\net6.0-windows\
+OderingSystem.Wpf
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\# Work\OrderingSystem\OderingSystem.Wpf\App.xaml
+17-160606222
+
+19-854449334
+202-281473034
+CompanyInfoWindow.xaml;CreateCompanyWindow.xaml;MainWindow.xaml;ManagementAreaPages\ItemPages\CreateItemPage.xaml;ManagementAreaPages\ItemPages\EditItemPage.xaml;ManagementAreaPages\ItemPages\RemoveItemPage.xaml;ManagementAreaPages\ManagementAreaPage.xaml;ManagementAreaPages\TablePages\CreateTablePage.xaml;ManagementAreaPages\TablePages\EditTablePage.xaml;ManagementAreaPages\TablePages\RemoveTablePage.xaml;ManagementAreaWindow.xaml;TablePages\AddItemsPage.xaml;TablePages\ItemTransfer.xaml;TablePages\TableListPage.xaml;TablePages\TableLocationPage.xaml;TablePages\TablePage.xaml;TableWindows\TransferChoosing.xaml;
+
+False
+

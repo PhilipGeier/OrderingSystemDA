@@ -1,0 +1,17 @@
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Services.deps.json
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Services.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Services.pdb
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.csproj.AssemblyReference.cache
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.AssemblyInfoInputs.cache
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.AssemblyInfo.cs
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.csproj.CoreCompileInputs.cache
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.pdb
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\ref\OrderingSystem.Services.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\ref\OrderingSystem.Services.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Domain.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Domain.pdb
+C:\# Work\OrderingSystem\OrderingSystem.Services\obj\Debug\net6.0\OrderingSystem.Services.csproj.CopyComplete
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Json.dll
+C:\# Work\OrderingSystem\OrderingSystem.Services\bin\Debug\net6.0\OrderingSystem.Json.pdb
