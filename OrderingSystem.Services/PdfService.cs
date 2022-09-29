@@ -26,9 +26,10 @@ public class PdfService
         gfx.DrawString(bill.Company.Street, _addressFont, XBrushes.Black, new XRect(0,15,page.Width, 10), XStringFormats.TopCenter);
         gfx.DrawString($"{bill.Company.ZipCode} {bill.Company.City}", _addressFont, XBrushes.Black, new XRect(0,25,page.Width, 10), XStringFormats.TopCenter);
         gfx.DrawString("________________________________________________________________________", _divider, XBrushes.Black, new XRect(0,27,page.Width, 5), XStringFormats.TopCenter);
-        gfx.DrawString($"Bill-Number: {bill.BillNumber.ToString()}", _billNumberFont, XBrushes.Black, new XRect(5,40,page.Width, 5), XStringFormats.TopLeft);
-        gfx.DrawString($"Register: {bill.RegisterId.ToString()}", _billNumberFont, XBrushes.Black, new XRect(5,50,page.Width, 5), XStringFormats.TopLeft);
-        gfx.DrawString($"Date and Time: {bill.PrintDate}", _billNumberFont, XBrushes.Black, new XRect(5,60,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Bill-Number:    {bill.BillNumber.ToString()}", _billNumberFont, XBrushes.Black, new XRect(5,40,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Register:       {bill.RegisterId.ToString()}", _billNumberFont, XBrushes.Black, new XRect(5,50,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Date and Time:  {bill.PrintDate}", _billNumberFont, XBrushes.Black, new XRect(5,60,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Table:          {bill.TableId}", _billNumberFont, XBrushes.Black, new XRect(5,70,page.Width, 5), XStringFormats.TopLeft);
         gfx.DrawString("Article", _billNumberFont, XBrushes.Black, new XRect(5,95,page.Width, 5), XStringFormats.TopLeft);
         gfx.DrawString("Price", _billNumberFont, XBrushes.Black, new XRect(110,95,page.Width, 5), XStringFormats.TopLeft);
         gfx.DrawString("Amount", _billNumberFont, XBrushes.Black, new XRect(150,95,page.Width, 5), XStringFormats.TopLeft);
@@ -48,10 +49,10 @@ public class PdfService
         
         gfx.DrawString("_____________________________________", _divider, XBrushes.Black, new XRect(5,300,page.Width, 5), XStringFormats.TopLeft);
         
-        gfx.DrawString($"Incl. Tax: {String.Format("{0:0.00}",bill.Sum)}", _billNumberFont, XBrushes.Black, new XRect(5,310,page.Width, 5), XStringFormats.TopLeft);
-        gfx.DrawString($"Excl. Tax: {String.Format("{0:0.00}",bill.SumExclTax)}", _billNumberFont, XBrushes.Black, new XRect(5,320,page.Width, 5), XStringFormats.TopLeft);
-        gfx.DrawString($"Tax:       {String.Format("{0:0.00}",bill.Sum - bill.SumExclTax)}", _billNumberFont, XBrushes.Black, new XRect(5,330,page.Width, 5), XStringFormats.TopLeft);
-        gfx.DrawString($"Method:    {bill.PaymentMethod}", _billNumberFont, XBrushes.Black, new XRect(5,340,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Incl. Tax: {String.Format("{0:0.00}",bill.Sum)}", _billNumberFont, XBrushes.Black, new XRect(5,315,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Excl. Tax: {String.Format("{0:0.00}",bill.SumExclTax)}", _billNumberFont, XBrushes.Black, new XRect(5,325,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Tax:       {String.Format("{0:0.00}",bill.Sum - bill.SumExclTax)}", _billNumberFont, XBrushes.Black, new XRect(5,335,page.Width, 5), XStringFormats.TopLeft);
+        gfx.DrawString($"Method:    {bill.PaymentMethod}", _billNumberFont, XBrushes.Black, new XRect(5,345,page.Width, 5), XStringFormats.TopLeft);
         gfx.DrawString(bill.Company.UIdNumber, _billNumberFont, XBrushes.Black, new XRect(0,360,page.Width, 5), XStringFormats.TopCenter);
         
         document.Save($"C:/OrderingSystem/BillsPdfs/bill{bill.BillNumber}.pdf");

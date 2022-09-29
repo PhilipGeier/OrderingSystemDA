@@ -331,7 +331,8 @@ namespace OderingSystem.Wpf
                     RegisterId = Guid.Empty,
                     SortedItems = _rightGroupedItems,
                     Sum = GetSum(),
-                    SumExclTax = GetSumExclTax()
+                    SumExclTax = GetSumExclTax(),
+                    TableId = _table.Id
                 };
 
                 _billJsonLogic.CreateBill(bill);

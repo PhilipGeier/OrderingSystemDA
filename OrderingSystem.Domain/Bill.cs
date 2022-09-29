@@ -13,6 +13,7 @@ public class Bill
     public int BillNumber { get; init; }
     public Company Company { get; init; }
     public DateTime PrintDate { get; init; }
+    public string TableId { get; set; }
     public IDictionary<Guid, int> SortedItems { get; init; }
     public PaymentMethods PaymentMethod { get; init; }
     public Guid RegisterId { get; init; }

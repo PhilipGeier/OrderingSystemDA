@@ -10,303 +10,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd616ed1-fb58-4ee4-8971-a91c6be78589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/OrderingSystem/FileContentIndex/79dfad85-9ce1-4aab-b839-db8485e003e4.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/OrderingSystem/FileContentIndex/ec0b6d2f-9c34-4260-afd4-345fb189b9a1.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/CompanyInfoWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/CompanyInfoWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/CreateItemPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/CreateItemPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/EditItemPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/EditItemPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/RemoveItemPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ItemPages/RemoveItemPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ManagementAreaPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/ManagementAreaPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/CreateTablePage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/CreateTablePage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/EditTablePage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/EditTablePage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/RemoveTablePage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaPages/TablePages/RemoveTablePage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/ManagementAreaWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/ICSharpCode.SharpZipLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Services.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Services.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/PdfSharpCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/SixLabors.Fonts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/SixLabors.ImageSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/de/PdfSharpCore.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/ref/OderingSystem.Wpf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/App.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/CompanyInfo.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/CompanyInfoWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/CompanyInfoWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/CompanyInfoWindow.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/CreateCompanyWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/MainWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/AddItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/CreateItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/CreateItemPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/CreateItemPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/CreateItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/EditItemPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/EditItemPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/EditItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/RemoveItemPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/RemoveItemPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ItemPages/RemoveItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ManagementAreaPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ManagementAreaPage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/ManagementAreaPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/RemoveItemPage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/RemoveTablePage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/CreateTablePage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/CreateTablePage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/CreateTablePage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/EditTablePage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/EditTablePage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/EditTablePage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/RemoveTablePage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/RemoveTablePage.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaPages/TablePages/RemoveTablePage.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ManagementAreaWindow.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_0ft52thp_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_0ft52thp_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_0ft52thp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_0ft52thp_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_0ft52thp_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_2cn5o2lz_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_2cn5o2lz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_2cn5o2lz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_2cn5o2lz_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_b1ka4zjn_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_b1ka4zjn_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_b1ka4zjn_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_b1ka4zjn_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_cbkjccjq_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_cbkjccjq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_cbkjccjq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_cbkjccjq_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_cbkjccjq_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_e3hkyuaq_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_e3hkyuaq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_e3hkyuaq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_e3hkyuaq_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_fpnurpmm_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_fpnurpmm_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_fpnurpmm_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_fpnurpmm_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_fpnurpmm_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_gicpbbk3_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_gicpbbk3_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_gicpbbk3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_gicpbbk3_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_gicpbbk3_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_guyrkc3y_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_guyrkc3y_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_guyrkc3y_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_guyrkc3y_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_guyrkc3y_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_hyvfc43k_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_hyvfc43k_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_hyvfc43k_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_hyvfc43k_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_hyvfc43k_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jacq4kn5_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jacq4kn5_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jacq4kn5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jacq4kn5_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jacq4kn5_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jbwo1wvu_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jbwo1wvu_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jbwo1wvu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jbwo1wvu_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_jbwo1wvu_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_kz0piukv_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_kz0piukv_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_kz0piukv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_kz0piukv_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_mz1kpkox_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_mz1kpkox_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_mz1kpkox_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_mz1kpkox_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_mz1kpkox_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_nlla2s13_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_nlla2s13_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_nlla2s13_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_nlla2s13_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_nlla2s13_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_r5pqslpy_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_r5pqslpy_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_r5pqslpy_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_r5pqslpy_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_r5pqslpy_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_u5qr0g4f_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_u5qr0g4f_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_u5qr0g4f_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_u5qr0g4f_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_v34t3wsh_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_v34t3wsh_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_v34t3wsh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_v34t3wsh_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_v34t3wsh_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vjlz3mu4_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vjlz3mu4_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vjlz3mu4_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vjlz3mu4_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vjlz3mu4_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vk5l5eeu_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vk5l5eeu_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vk5l5eeu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vk5l5eeu_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vk5l5eeu_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vldtymqh_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vldtymqh_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vldtymqh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vldtymqh_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_vldtymqh_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_w3lv4lb1_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_w3lv4lb1_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_w3lv4lb1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_w3lv4lb1_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_w3lv4lb1_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_x1gq2zzd_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_x1gq2zzd_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_x1gq2zzd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_x1gq2zzd_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_x1gq2zzd_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_yylqjprn_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_yylqjprn_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_yylqjprn_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_yylqjprn_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf_yylqjprn_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TablePages/AddItemsPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TablePages/ItemTransfer.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TablePages/TableListPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TablePages/TableLocationPage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TablePages/TablePage.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TableWindows/TransferChoosing.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_2cn5o2lz_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_2cn5o2lz_wpftmp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_2cn5o2lz_wpftmp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_b1ka4zjn_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_b1ka4zjn_wpftmp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_b1ka4zjn_wpftmp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_e3hkyuaq_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_e3hkyuaq_wpftmp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_e3hkyuaq_wpftmp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_u5qr0g4f_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_u5qr0g4f_wpftmp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf_u5qr0g4f_wpftmp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/ICSharpCode.SharpZipLib.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Services.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Services.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/PdfSharpCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/SixLabors.Fonts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/SixLabors.ImageSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/bill.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/de/PdfSharpCore.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/test.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Domain/bin/Debug/net6.0/ref/OrderingSystem.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/ref/OrderingSystem.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/PdfService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/bin/Debug/net6.0/OrderingSystem.Domain.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/bin/Debug/net6.0/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/bin/Debug/net6.0/OrderingSystem.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/bin/Debug/net6.0/OrderingSystem.Json.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderingSystem.Services/obj/Debug/net6.0/OrderingSystem.Services.csproj.CopyComplete" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OrderingSystem/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OrderingSystem/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OrderingSystem/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OrderingSystem/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OrderingSystem/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OrderingSystem/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/orderingsystem.metadata.v5" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/orderingsystem.metadata.v5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/orderingsystem.projects.v5" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/orderingsystem.projects.v5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/ItemWindows/CreateItemWindow.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/ItemWindows/CreateItemWindow.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/MainWindow.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/OderingSystem.Wpf.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/OderingSystem.Wpf.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/OderingSystem.Wpf.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/OderingSystem.Wpf.csproj.user" afterDir="false" />
+    <list default="true" id="fd616ed1-fb58-4ee4-8971-a91c6be78589" name="Changes" comment="Removed incorrect project">
       <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/TablePages/TablePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/TablePages/TablePage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/TableWindows/NewTableWindow.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/TableWindows/NewTableWindow.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OderingSystem.Wpf.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Json.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/bin/Debug/net6.0-windows/OrderingSystem.Json.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ItemWindows/CreateItemWindow.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ItemWindows/CreateItemWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ItemWindows/CreateItemWindow.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/MainWindow.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/MainWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/MainWindow.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.g.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/OderingSystem.Wpf.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TableWindows/NewTableWindow.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TableWindows/NewTableWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/TableWindows/NewTableWindow.g.i.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ref/OderingSystem.Wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/ref/OderingSystem.Wpf.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/Debug/net6.0-windows/refint/OderingSystem.Wpf.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/OderingSystem.Wpf.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OderingSystem.Wpf/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OderingSystem.Wpf/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Api/obj/Debug/net6.0/OrderingSystem.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Api/obj/Debug/net6.0/OrderingSystem.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/OrderingSystem.Console.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/OrderingSystem.Console.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Console.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Json.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/bin/Debug/net6.0/OrderingSystem.Json.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/OrderingSystem.Console.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/ref/OrderingSystem.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/ref/OrderingSystem.Console.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/Debug/net6.0/refint/OrderingSystem.Console.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/OrderingSystem.Console.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/OrderingSystem.Console.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Console/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Console/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/bin/Debug/net6.0/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/bin/Debug/net6.0/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/bin/Debug/net6.0/OrderingSystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/bin/Debug/net6.0/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/ref/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/ref/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/Debug/net6.0/refint/OrderingSystem.Domain.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Json.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/bin/Debug/net6.0/OrderingSystem.Json.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/OrderingSystem.Json.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/ref/OrderingSystem.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/ref/OrderingSystem.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/Debug/net6.0/refint/OrderingSystem.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.Json/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Json/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderingSystem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderingSystem.Domain/Bill.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Domain/Bill.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderingSystem.Services/PdfService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OrderingSystem.Services/PdfService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,7 +35,7 @@
     <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OrderingSystem.Web/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderingSystem.Services/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50dc2d52e8d9437b957a7098bc8bb9a87f800/33/6c13a706/PdfDocument.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50dc2d52e8d9437b957a7098bc8bb9a87f800/8d/15e1d777/XRect.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -437,7 +144,7 @@
       <workItem from="1659903728462" duration="658000" />
       <workItem from="1663672013109" duration="5364000" />
       <workItem from="1664446956343" duration="1426000" />
-      <workItem from="1664458173493" duration="4905000" />
+      <workItem from="1664458173493" duration="5252000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1663678823627</created>
@@ -453,7 +160,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664447105601</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bill">
+      <created>1664463263140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463263140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Unversioned Files">
+      <created>1664463282565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463282565</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Removed incorrect project">
+      <created>1664463351919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463351919</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +206,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Rework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rework" />
+    <MESSAGE value="Bill" />
+    <MESSAGE value="Unversioned Files" />
+    <MESSAGE value="Removed incorrect project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed incorrect project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
